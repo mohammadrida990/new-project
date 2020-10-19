@@ -35,3 +35,4 @@ git reset HEAD abc.txt
 
 h1
 h2
+h3
