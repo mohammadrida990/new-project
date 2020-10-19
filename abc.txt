@@ -33,6 +33,3 @@ git reset HEAD abc.txt
 
  git commit --amend -m "baby 123"  		to rechange commit for last commit only
 
-h1
-h2
-h3
