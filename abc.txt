@@ -20,4 +20,6 @@ $ git diff					show diff files btw working area and reposetry (working area)
 
 git diff --staged				show diff files btw stage area and reposetry (in stage)
 
-lblblblblblbl
+ git rm pagetodelete.txt			delete file from sys(after commited) but must do commit to del from respo
+
+git rm -f f.txt					delete file from staged
