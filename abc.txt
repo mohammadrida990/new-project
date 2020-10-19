@@ -29,4 +29,5 @@ git mv oldfile new file				rename file
 git checkout "abc.txt"				undo last changes
 
 git restore --staged <file>..." to unstage)  	to change file in stage make unstage to not be overwrite
+git reset HEAD abc.txt 
 hello
