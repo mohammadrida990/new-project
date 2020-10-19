@@ -32,4 +32,4 @@ git restore --staged <file>..." to unstage)  	to change file in stage make unsta
 git reset HEAD abc.txt 
 
  git commit --amend -m "baby 123"  		to rechange commit for last commit only
-
+git checkout b5ac57d -- abc.txt			return to km commit la wara
