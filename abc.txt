@@ -13,4 +13,6 @@ git ls						show all folders and files in directory
 cd foldername					unter to folder
 
 git log						show all changes in reposetry
-          
+git log --oneline				show allchanges but in summery (code and the masseges) 
+
+git status					
