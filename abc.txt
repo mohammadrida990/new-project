@@ -1,1 +1,16 @@
-mohammad rida 1233
+gi config --global user.name "rida"
+gi config --global user.email "email.com"
+
+git init					create (.git) folder
+
+git add .					add all files             
+git add --all					add only changed files         
+
+git commit -m "add comments here"		upload files to reposetry
+
+git ls						show all folders and files in directory
+
+cd foldername					unter to folder
+
+git log						show all changes in reposetry
+          
