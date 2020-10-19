@@ -26,5 +26,7 @@ git rm -f f.txt					delete file from staged
 
 git mv oldfile new file				rename file
 
+git checkout "abc.txt"				undo last changes
 
-mmmmmbm
+git restore --staged <file>..." to unstage)  	to change file in stage make unstage to not be overwrite
+hello
