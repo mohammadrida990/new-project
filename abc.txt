@@ -41,4 +41,5 @@ git reset --mixed 6165bf0
 	or
 git reset 6165bf0 				byrj3 al head 5otwi la wara by5od ns5a mn al comit al 25er w al abl al 25er bl working directory w by5ons5a mn abl al 25er w y7to bl staging
 
+git reset --hard 5ceb327			byrj3 al head 5otwi lawara w bym7i 25er commit w yl8iha mn a wojod w ym7i al data ta3itha
 
