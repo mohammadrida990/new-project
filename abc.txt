@@ -36,3 +36,8 @@ git reset HEAD abc.txt
  git checkout 6165bf0 -- abc.txt		return to last km commit la wara
 
 git reset --soft 6165bf0 			byrj3 5otwi la wara w byser al head wi2if 3a al commit yli abl 25er w7di . w al commit al 25er byser 3al stage
+
+
+h1
+h2
+h3
