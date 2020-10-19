@@ -30,4 +30,6 @@ git checkout "abc.txt"				undo last changes
 
 git restore --staged <file>..." to unstage)  	to change file in stage make unstage to not be overwrite
 git reset HEAD abc.txt 
-baby
+
+ git commit --amend -m "baby 123"  		to rechange commit for last commit only
+
