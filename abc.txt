@@ -72,3 +72,10 @@ add line 2
 add line 3
 ------------------------------------------
 
+git branch					show branches
+git branch b2					create branch b2
+cat .git/HEAD					show head pointer
+ls -la .git/refs/heads/				km 3adad al branches in sys
+git checkout b2					switched to branch b2
+
+
