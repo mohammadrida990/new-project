@@ -65,4 +65,4 @@ git log --oneline --graph --all --decorate
 
 wslna lal 22
 
-
+r7 nblsh al youm
