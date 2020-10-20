@@ -52,4 +52,17 @@ ls -la						file properties details
 
 make .ignore files and writes files not be tracked
 
+git log --oneline -3				show last three from log
+
+git log --since="2020-Oct-20"
+git log --untill="2020-Oct-20"
+git log --author "rida"
+git log 6165bf0..6165bf1			from old to new
+
+git log --stat					show with more details
+git log --format=short 				bl 25tisar
+git log --oneline --graph --all --decorate
+
+wslna lal 22
+
 
