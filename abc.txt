@@ -65,4 +65,9 @@ git log --oneline --graph --all --decorate
 
 wslna lal 22
 
+b3d ma m7yna
+
+add line 1
+add line 2
+add line 3
 
